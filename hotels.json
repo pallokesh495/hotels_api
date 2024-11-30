@@ -1,0 +1,77 @@
+[
+  {
+    "city": "Delhi",
+    "hotels": [
+      { "id": 1, "name": "Hotel Taj Palace", "address": "Chanakyapuri, Delhi", "rating": 4.5 },
+      { "id": 2, "name": "Hotel Leela Palace", "address": "Diplomatic Enclave, Delhi", "rating": 4.8 },
+      { "id": 3, "name": "Hotel Oberoi", "address": "Dr. Zakir Hussain Marg, Delhi", "rating": 4.7 },
+      { "id": 4, "name": "Hotel Lalit", "address": "Connaught Place, Delhi", "rating": 4.3 },
+      { "id": 5, "name": "Hotel Novotel", "address": "Aerocity, Delhi", "rating": 4.4 },
+      { "id": 6, "name": "Hotel Radisson Blu", "address": "Dwarka, Delhi", "rating": 4.2 },
+      { "id": 7, "name": "Hotel Crowne Plaza", "address": "Mayur Vihar, Delhi", "rating": 4.5 },
+      { "id": 8, "name": "Hotel Shangri-La", "address": "Connaught Place, Delhi", "rating": 4.6 },
+      { "id": 9, "name": "Hotel Hyatt Regency", "address": "Bhikaji Cama Place, Delhi", "rating": 4.7 },
+      { "id": 10, "name": "Hotel ITC Maurya", "address": "Diplomatic Enclave, Delhi", "rating": 4.9 }
+    ]
+  },
+  {
+    "city": "Mumbai",
+    "hotels": [
+      { "id": 11, "name": "Hotel Taj Mahal Palace", "address": "Colaba, Mumbai", "rating": 4.8 },
+      { "id": 12, "name": "Hotel Oberoi", "address": "Marine Drive, Mumbai", "rating": 4.7 },
+      { "id": 13, "name": "Hotel Trident", "address": "Nariman Point, Mumbai", "rating": 4.6 },
+      { "id": 14, "name": "Hotel Leela", "address": "Andheri East, Mumbai", "rating": 4.5 },
+      { "id": 15, "name": "Hotel Sofitel", "address": "BKC, Mumbai", "rating": 4.7 },
+      { "id": 16, "name": "Hotel ITC Grand Maratha", "address": "Andheri East, Mumbai", "rating": 4.4 },
+      { "id": 17, "name": "Hotel J W Marriott", "address": "Juhu Beach, Mumbai", "rating": 4.9 },
+      { "id": 18, "name": "Hotel The St. Regis", "address": "Lower Parel, Mumbai", "rating": 4.6 },
+      { "id": 19, "name": "Hotel The Westin", "address": "Kolyani", "rating": 4.5 },
+      { "id": 20, "name": "Hotel Taj Lands End", "address": "Bandra, Mumbai", "rating": 4.8 }
+    ]
+  },
+  {
+    "city": "Kolkata",
+    "hotels": [
+      { "id": 21, "name": "Hotel Oberoi Grand", "address": "Esplanade, Kolkata", "rating": 4.9 },
+      { "id": 22, "name": "Hotel Taj Bengal", "address": "Alipore, Kolkata", "rating": 4.7 },
+      { "id": 23, "name": "Hotel The Park", "address": "Park Street, Kolkata", "rating": 4.5 },
+      { "id": 24, "name": "Hotel ITC Sonar", "address": "JBS Haldane Avenue, Kolkata", "rating": 4.6 },
+      { "id": 25, "name": "Hotel JW Marriott", "address": "New Town, Kolkata", "rating": 4.8 },
+      { "id": 26, "name": "Hotel Radisson Blu", "address": "Salt Lake, Kolkata", "rating": 4.4 },
+      { "id": 27, "name": "Hotel Hyatt Regency", "address": "Salt Lake City, Kolkata", "rating": 4.6 },
+      { "id": 28, "name": "Hotel The Astor", "address": "Park Street, Kolkata", "rating": 4.3 },
+      { "id": 29, "name": "Hotel Novotel", "address": "Rajarhat, Kolkata", "rating": 4.5 },
+      { "id": 30, "name": "Hotel Swissotel", "address": "New Town, Kolkata", "rating": 4.6 }
+    ]
+  },
+  {
+    "city": "Chennai",
+    "hotels": [
+      { "id": 31, "name": "Hotel ITC Grand Chola", "address": "Guindy, Chennai", "rating": 4.9 },
+      { "id": 32, "name": "Hotel Taj Coromandel", "address": "Nungambakkam, Chennai", "rating": 4.8 },
+      { "id": 33, "name": "Hotel Leela Palace", "address": "MRC Nagar, Chennai", "rating": 4.7 },
+      { "id": 34, "name": "Hotel The Park", "address": "Mylapore, Chennai", "rating": 4.5 },
+      { "id": 35, "name": "Hotel Radisson Blu", "address": "Egmore, Chennai", "rating": 4.6 },
+      { "id": 36, "name": "Hotel Hilton", "address": "Guindy, Chennai", "rating": 4.4 },
+      { "id": 37, "name": "Hotel Hyatt Regency", "address": "T Nagar, Chennai", "rating": 4.5 },
+      { "id": 38, "name": "Hotel Grand by GRT", "address": "T Nagar, Chennai", "rating": 4.3 },
+      { "id": 39, "name": "Hotel Crowne Plaza", "address": "Adyar, Chennai", "rating": 4.6 },
+      { "id": 40, "name": "Hotel Vivanta", "address": "MG Road, Chennai", "rating": 4.8 }
+    ]
+  },
+  {
+    "city": "Delhi",
+    "hotels": [
+      { "id": 41, "name": "Hotel The Claridges", "address": "Aurangzeb Road, Delhi", "rating": 4.3 },
+      { "id": 42, "name": "Hotel Radisson Blu", "address": "Dwarka, Delhi", "rating": 4.6 },
+      { "id": 43, "name": "Hotel Connaught", "address": "Connaught Place, Delhi", "rating": 4.4 },
+      { "id": 44, "name": "Hotel The Leela", "address": "Gurugram, Delhi", "rating": 4.7 },
+      { "id": 45, "name": "Hotel Roseate House", "address": "Aerocity, Delhi", "rating": 4.8 },
+      { "id": 46, "name": "Hotel Ashoka", "address": "Chanakyapuri, Delhi", "rating": 4.5 },
+      { "id": 47, "name": "Hotel Eros", "address": "Nehru Place, Delhi", "rating": 4.2 },
+      { "id": 48, "name": "Hotel The Imperial", "address": "Janpath, Delhi", "rating": 4.9 },
+      { "id": 49, "name": "Hotel The Lalit", "address": "Barakhamba Road, Delhi", "rating": 4.6 },
+      { "id": 50, "name": "Hotel Sheraton", "address": "Saket, Delhi", "rating": 4.4 }
+    ]
+  }
+]
